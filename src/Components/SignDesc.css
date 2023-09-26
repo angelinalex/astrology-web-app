@@ -1,0 +1,66 @@
+/* Your CSS styles */
+.sign-desc-container {
+    display: flex;
+    height: 100vh; /* Adjust to your needs */
+    background-color: rgb(251, 234, 229);
+    padding-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.word {
+    display: inline-block;
+    width: 100px; /* Adjust the width as needed */
+    font-weight: bold;
+    margin-right: 10px;
+}
+  
+.sign-title {
+    margin: 0 auto 20px; /* Auto margins horizontally center the element */
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.text-and-image {
+    display:flex;
+    padding: 30px;
+}
+
+.sign-icon-img {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    margin-right: 20px; /* Adjust spacing between image and text */
+    background-color: rgb(247, 247, 247);
+    border-radius: 50%; 
+}
+
+/* Your existing styles */
+/* Your existing styles */
+
+.text {
+
+    flex-direction: column; /* Display items vertically */
+    margin-bottom: 10px; /* Add margin between paragraphs */
+  }
+  
+  .label {
+    font-weight: bold;
+    margin-bottom: 5px; /* Add spacing between label and value */
+  }
+  
+  .word {
+    margin-right: 10px; /* Adjust spacing between label and value */
+  }
+  
+  p {
+    margin: 0; /* Reset margin for the <p> elements */
+    white-space: normal; /* Allow line breaks within the text */
+  }
+
+.description{
+    padding: 50px;
+    background-color: rgb(251, 234, 229);
+}
+  

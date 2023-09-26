@@ -1,0 +1,51 @@
+.calculator-box {
+    padding: 20px;
+    background-color: white;
+    max-width: 500px;
+    padding: 30px;
+    margin: 0 auto; /* Center the calculator-box horizontally */
+    text-align: center; /* Center the text within the calculator-box */
+  }
+  
+  h2 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+  }
+  
+  form {
+    /* Remove display: flex; */
+    flex-direction: column;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  label {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 2px;
+  }
+  
+  input {
+    padding: 8px;
+    width: 90%;
+    border-bottom: 1px solid rgb(197, 197, 197);
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    color: black;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 40%;
+    margin: 0 auto; /* Center the button horizontally */
+
+  }
+  

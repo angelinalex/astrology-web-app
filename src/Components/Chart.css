@@ -1,0 +1,50 @@
+.chart-container{
+    background-color: rgb(255, 233, 227);
+    padding: 10px;
+}
+
+.planets{
+    background-color:rgb(252, 241, 238);
+    padding:10px;
+}
+
+.chart-head{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+
+}
+
+.person-attributes li{
+  list-style: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.planets-title{
+    font-size: 20px;
+}
+
+/* styles.css or LoadingSpinner.css */
+.loading-container {
+    display: flex;
+    background-color: rgb(250, 238, 238);
+    justify-content: center;
+    padding-top: 200px;
+    padding-bottom:1000px;/* Adjust the height as needed, e.g., to fit your layout */
+  }
+  
+  .loading-spinner {
+    border: 4px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top: 4px solid #0e0e0e; /* Change color to your desired color */
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite; 
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  

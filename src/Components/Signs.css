@@ -1,0 +1,46 @@
+.text-container {
+    background-color: rgb(255, 252, 251);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 40px;
+  }
+  
+  .icons-container {
+    display: flex;
+    flex-wrap: wrap;
+ 
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+
+  }
+  
+  .icon-group {
+    text-align: center;
+    flex: 0 0 calc(25% - 20px); /* Adjust the width based on your requirements */
+    margin: 10px;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+  }
+  
+  .icon {
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  
+
+  .icon:hover {
+    background-color: rgb(251, 234, 229);; /* Change background color on hover */
+    border-radius: 50%; 
+}
+
+
+  .label {
+    margin-top: 10px;
+  }
+  
+  ;sign-desc-container{
+    flex:1;
+  }
