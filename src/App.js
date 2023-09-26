@@ -14,7 +14,6 @@ function App() {
       <div>
         <Title />
         <Nav />
-        <Home/>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/resources" element={<Resources />} />

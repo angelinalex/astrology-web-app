@@ -4,13 +4,15 @@
     height: 100vh; /* Adjust to your needs */
     background-color: rgb(251, 234, 229);
     padding-top: 30px;
+    width: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    flex-wrap: wrap;
 }
 
 
 .word {
     display: inline-block;
-    width: 100px; /* Adjust the width as needed */
+    width: 100%; /* Adjust the width as needed */
     font-weight: bold;
     margin-right: 10px;
 }
@@ -28,8 +30,8 @@
 }
 
 .sign-icon-img {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     cursor: pointer;
     margin-right: 20px; /* Adjust spacing between image and text */
     background-color: rgb(247, 247, 247);
