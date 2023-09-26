@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/angelinalex/astrology-app/static/css/main.11f8500e.css",
+    "main.js": "/angelinalex/astrology-app/static/js/main.dde3a2ce.js",
+    "static/js/787.d2d210df.chunk.js": "/angelinalex/astrology-app/static/js/787.d2d210df.chunk.js",
+    "static/media/etching.png": "/angelinalex/astrology-app/static/media/etching.333e5be848870999d3e6.png",
+    "static/media/12.png": "/angelinalex/astrology-app/static/media/12.91d31b4edf5495e4c19c.png",
+    "static/media/5.png": "/angelinalex/astrology-app/static/media/5.20ae05b609f94c471281.png",
+    "static/media/2.png": "/angelinalex/astrology-app/static/media/2.caf75b0c007930cdf43e.png",
+    "static/media/9.png": "/angelinalex/astrology-app/static/media/9.306d8ac550241bd89b07.png",
+    "static/media/11.png": "/angelinalex/astrology-app/static/media/11.4e5cfdae1a3417bda8ad.png",
+    "static/media/4.png": "/angelinalex/astrology-app/static/media/4.1aae77332db3911c5679.png",
+    "static/media/3.png": "/angelinalex/astrology-app/static/media/3.c30a09baa69df0f85ba9.png",
+    "static/media/13.png": "/angelinalex/astrology-app/static/media/13.e1160ea9bfdc9d300b03.png",
+    "static/media/6.png": "/angelinalex/astrology-app/static/media/6.4ce23d9fc469e4f13e71.png",
+    "static/media/8.png": "/angelinalex/astrology-app/static/media/8.27d75d1141b3a6b99b9a.png",
+    "static/media/10.png": "/angelinalex/astrology-app/static/media/10.65316c9187195c96e2fe.png",
+    "static/media/7.png": "/angelinalex/astrology-app/static/media/7.633da7f562e7cbace1be.png",
+    "static/media/logo.png": "/angelinalex/astrology-app/static/media/logo.5e21c7e284912b8615ce.png",
+    "static/media/Scorpio.rtf": "/angelinalex/astrology-app/static/media/Scorpio.d8fb0e27e12222803517.rtf",
+    "static/media/Libra.rtf": "/angelinalex/astrology-app/static/media/Libra.022893873015d076ea30.rtf",
+    "static/media/Virgo.rtf": "/angelinalex/astrology-app/static/media/Virgo.6721abd1ce3c4c2a986b.rtf",
+    "static/media/Sagittarrius .rtf": "/angelinalex/astrology-app/static/media/Sagittarrius .12d5bbba62ccadc8ee8b.rtf",
+    "static/media/Aquarius.txt": "/angelinalex/astrology-app/static/media/Aquarius.9cc9a778f627f3060c2e.txt",
+    "static/media/Capricorn.rtf": "/angelinalex/astrology-app/static/media/Capricorn.e1a1e87ad4be950616d2.rtf",
+    "static/media/Leo.rtf": "/angelinalex/astrology-app/static/media/Leo.75628852d02782fcbeb2.rtf",
+    "static/media/Taurus.rtf": "/angelinalex/astrology-app/static/media/Taurus.3882b1b605ebb189ab6d.rtf",
+    "static/media/Gemini.rtf": "/angelinalex/astrology-app/static/media/Gemini.355592bd38e1b5b99bec.rtf",
+    "static/media/Pisces.txt": "/angelinalex/astrology-app/static/media/Pisces.8fb4dd4f81f4f964db4b.txt",
+    "static/media/Cancer.rtf": "/angelinalex/astrology-app/static/media/Cancer.519bdc1a461ec0d4ef03.rtf",
+    "static/media/Aries .rtf": "/angelinalex/astrology-app/static/media/Aries .9a84784b078169ec7100.rtf",
+    "index.html": "/angelinalex/astrology-app/index.html",
+    "main.11f8500e.css.map": "/angelinalex/astrology-app/static/css/main.11f8500e.css.map",
+    "main.dde3a2ce.js.map": "/angelinalex/astrology-app/static/js/main.dde3a2ce.js.map",
+    "787.d2d210df.chunk.js.map": "/angelinalex/astrology-app/static/js/787.d2d210df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f8500e.css",
+    "static/js/main.dde3a2ce.js"
+  ]
+}
