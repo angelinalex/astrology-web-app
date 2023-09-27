@@ -206,6 +206,21 @@ const SignDesc = (props) => {
             />
 
 
+ 
+
+    
+        
+
+          </div>
+          
+          <div className='description'>
+          <div className='text'>
+          <label className='word'>Personality:</label>
+          
+         <p>{personality}</p>
+
+        </div>
+
         <div className='text'>
         <label className='word'>Element:</label>
         <p>{element}</p>
@@ -222,15 +237,6 @@ const SignDesc = (props) => {
         <label className='word'>Ruler:</label>
         <p>{ruler}</p>
         </div>
-
-        <div className='text'>
-          <label className='word'>Personality:</label>
-         <p>{personality}</p>
-        </div>
-        
-
-          </div>
-          <div className='description'>
             {description}
     
 
