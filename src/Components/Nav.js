@@ -8,7 +8,7 @@ function Nav() {
     <div className='nav-container'>  
     <nav>
       <ul className='nav-list'>
-        <li><Link to="/">Home</Link></li>
+        <li><Link to="/"> Create New Chart</Link></li>
       </ul>
     </nav>
     </div>

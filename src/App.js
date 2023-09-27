@@ -7,6 +7,7 @@ import Resources from './Components/Resources';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Chart from './Components/Chart';
 import PresentChart from './Components/PresentChart';
+import Header from './Components/Header';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <div>
         <Title />
         <Nav />
+        <Header/>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/resources" element={<Resources />} />

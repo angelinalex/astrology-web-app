@@ -1,0 +1,11 @@
+.header_div{
+    background-color:rgb(255, 227, 225); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h_picture{
+    width: 50%;
+    align-items: center;
+}
