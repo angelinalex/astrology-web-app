@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/astrology-web-app/static/css/main.8f07310f.css",
-    "main.js": "/astrology-web-app/static/js/main.6f2a6932.js",
+    "main.css": "/astrology-web-app/static/css/main.2d3f77d0.css",
+    "main.js": "/astrology-web-app/static/js/main.fed6b38c.js",
     "static/js/787.d2d210df.chunk.js": "/astrology-web-app/static/js/787.d2d210df.chunk.js",
     "static/media/etching.png": "/astrology-web-app/static/media/etching.333e5be848870999d3e6.png",
     "static/media/12.png": "/astrology-web-app/static/media/12.91d31b4edf5495e4c19c.png",
@@ -30,12 +30,12 @@
     "static/media/Cancer.rtf": "/astrology-web-app/static/media/Cancer.519bdc1a461ec0d4ef03.rtf",
     "static/media/Aries .rtf": "/astrology-web-app/static/media/Aries .9a84784b078169ec7100.rtf",
     "index.html": "/astrology-web-app/index.html",
-    "main.8f07310f.css.map": "/astrology-web-app/static/css/main.8f07310f.css.map",
-    "main.6f2a6932.js.map": "/astrology-web-app/static/js/main.6f2a6932.js.map",
+    "main.2d3f77d0.css.map": "/astrology-web-app/static/css/main.2d3f77d0.css.map",
+    "main.fed6b38c.js.map": "/astrology-web-app/static/js/main.fed6b38c.js.map",
     "787.d2d210df.chunk.js.map": "/astrology-web-app/static/js/787.d2d210df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f07310f.css",
-    "static/js/main.6f2a6932.js"
+    "static/css/main.2d3f77d0.css",
+    "static/js/main.fed6b38c.js"
   ]
 }
